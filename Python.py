@@ -4,3 +4,11 @@ def hi():
 hi()
 hi()
 hi()
+
+
+def hiYou(name):
+    print("Hello " + name + "! How are you today?")
+
+hiYou("John")
+hiYou("James")
+hiYou("Maggie")
