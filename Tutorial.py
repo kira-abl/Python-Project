@@ -14,7 +14,6 @@ print(arr1[3])
 
 print(np.__version__)
 print(type(arr))
-print(type(arr))
 print(type(arr1))
 print(type(num))
 
